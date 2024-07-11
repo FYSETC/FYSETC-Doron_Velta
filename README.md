@@ -1,5 +1,5 @@
 # FYSETC-Doron Velta
-![image](https://github.com/FYSETC/FYSETC-Doron_Velta/assets/166487371/b27de6ed-8594-48e1-b6a4-01e5d842598e)
+![image](https://github.com/FYSETC/FYSETC-Doron_Velta/images/FYSETC_Doron_Velta)
 
 
 ## 1. Project
