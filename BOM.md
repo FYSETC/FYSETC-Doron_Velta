@@ -34,7 +34,7 @@
 | 24    | Electronics          | Round lamp beads                                             | 2 PCS  |          |
 | 25    | Electronics          | Klicky kit                                                   | 1 PCS  |          |
 | 26    | Electronics          | Membrane level switch kit                                    | 1 PCS  |          |
-| 27    | Electronics          | NEMA17 Stepper motors 17HS19-2004S2  (check [here](https://github.com/FYSETC/FYSETC-LH-Stinger/)） | 3 PCS  |          |
+| 27    | Electronics          | NEMA17 Stepper motors 17HS8401                               | 3 PCS  |          |
 | 28    | Electronics          | Power Supply  Meanwell UHP-200R-24                           | 1 PCS  |          |
 | 29    | Electronics          | Raspberry Pi communication cable                             | 1 PCS  |          |
 | 30    | Electronics          | Dual Ball FAN - 3010 24V (Part Fan)                          | 1 PCS  |          |
