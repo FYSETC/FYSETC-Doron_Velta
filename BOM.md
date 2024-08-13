@@ -28,7 +28,7 @@
 | 18    | Buildplate           | PEI Film (∅200 mm)                                           | 1 PCS  |          |
 | 19    | Buildplate           | Hotbed Kit for ∅170mm 200W                                   | 1 PCS  |          |
 | 20    | Controller           | R4 V1.0                                                      | 1 SET  |          |
-| 21    | Electronics          | Raspberrypi 4b 2GB                                           | 1 SET  | Optional |
+| 21    | Electronics          | Raspberrypi 3B+/4B 2GB                                           | 1 SET  | Optional |
 | 22    | Electronics          | MicroSD Card 16 GB                                           | 1 PCS  |          |
 | 23    | Electronics          | USB A to USB C - 1m                                          | 1 PCS  |          |
 | 24    | Electronics          | Round lamp beads                                             | 2 PCS  |          |
