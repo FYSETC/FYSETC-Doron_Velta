@@ -29,3 +29,6 @@ Waiting for the burning process to complete.
 - Power on the device, and a progress bar will appear on the display. The update will take approximately 10 minutes to complete.
 - Power off the device and remove the SD card.
 
+# Important
+The Wi-Fi network only supports WPA2 encryption.
+
