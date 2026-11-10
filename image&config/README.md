@@ -30,5 +30,6 @@ Waiting for the burning process to complete.
 - Power off the device and remove the SD card.
 
 # Important
-The Wi-Fi network only supports WPA2 encryption.
+- The Wi-Fi network only supports WPA2 encryption.
+- The system username and password are root:fysetc or pi:fysetc
 
